@@ -7,6 +7,6 @@ metadata:
 spec:
   appQuotaLimit: -1
   ingressController:
-    serviceEndpoint: 104.237.148.131
+    serviceEndpoint: 34.75.213.124
     type: istio
   namespace: ketch-staging
